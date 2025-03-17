@@ -1,1 +1,1 @@
-# UAV-and-UGV-Environment-Exploration
+# UAV-and-UGV-Indoor-Exploration
